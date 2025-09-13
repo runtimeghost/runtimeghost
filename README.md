@@ -38,7 +38,7 @@
 <a href="https://instagram.com/droid.xenon" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xenon-a&show_icons=true&locale=en&layout=compact" alt="xenon-a" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=runtimeghost&show_icons=true&locale=en&layout=compact" alt="runtimeghost" /></p>
 
 ```py
 from life import Goal
