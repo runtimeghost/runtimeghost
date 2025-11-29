@@ -30,6 +30,7 @@
 
 ### Favourite Languages:
 > <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  **[Python](https://www.python.org)**
+> <br/>
 > <a href="https://dart.dev" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" alt="python" width="40" height="40"/></a>  **[Dart](https://dart.dev)**
 
 <h3 align="left">Connect with me:</h3>
